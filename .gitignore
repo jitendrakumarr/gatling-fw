@@ -1,0 +1,23 @@
+*.class
+*.db
+*.iml
+Thumbs.db
+.DS_Store
+ 
+###################### Eclipse ######################
+ 
+*.pydevproject
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+
+###################### Intellij Idea ######################
+
+.idea/
+*.iml
+
+############ Common #########
+
+target/
